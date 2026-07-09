@@ -1,3 +1,5 @@
+![logo](https://i0.wp.com/ultmeche.com/wp-content/uploads/2023/12/LinkedIn-Banner-Chicago.png?resize=1024%2C256&ssl=1)
+
 <h1 align="center">Hi 👋, I'm sheenu malik</h1>
 <h3 align="center">💻 Python Developer | 🚀 Learning Software Development | 🌱 Always Learning</h3>
 <img align="right" width="200" src=https://lottiefiles.com/free-animation/girl-on-computer-with-idea-vKx1wtZe5l.gif>
